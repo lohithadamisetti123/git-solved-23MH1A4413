@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev content for file3
+=======
+main content for file3
+>>>>>>> 7b4b2ca (main: add file3.txt (main))
