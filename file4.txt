@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev content for file4
+=======
+main content for file4
+>>>>>>> 64064e8 (main: add file4.txt (main))
