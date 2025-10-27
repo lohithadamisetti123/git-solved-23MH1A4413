@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev content for file6
+=======
+main content for file6
+>>>>>>> b92a1c6 (main: add file6.txt (main))
