@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dev content for file5
-=======
-main content for file5
->>>>>>> d81d03e (main: add file5.txt (main))
+final resolved version of file5

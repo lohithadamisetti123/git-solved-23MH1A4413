@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dev content for file2
-=======
-main content for file2
->>>>>>> 757d53d (main: add file2.txt (main))
+final resolved version of file2

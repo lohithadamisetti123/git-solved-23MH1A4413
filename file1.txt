@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dev content for file1
-=======
-main content for file1
->>>>>>> 07f084a (main: add file1.txt (main))
+final resolved version of file1
